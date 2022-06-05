@@ -1,0 +1,7 @@
+1010;Chuot;150;dong;
+1011;Ban phim;233;dong;
+1012;Man hinh;233;dong;
+1013;ram;233;dong;
+1014;SSD;233;dong;
+1015;chuot khong day;200;dong;
+1016;Loa bluestooth;100;dong;
